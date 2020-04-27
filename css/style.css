@@ -198,9 +198,9 @@ img, video, audio, iframe, table, form {
 
 #social {
   position: fixed;
-  top: 163px;
-  right: 20px;
-  width: 40px;
+  top: 82;
+  right: 4;
+  width: auto;
   z-index: 2;
 }
 
