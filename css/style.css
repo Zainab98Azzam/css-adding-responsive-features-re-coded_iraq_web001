@@ -183,7 +183,7 @@ img, video, audio, iframe, table, form {
   column-gap: 1.5em;
   -moz-column-count: 3;
   -webkit-column-count: 3;
-  column-count: 3;
+  column-count: 2;
 }
 
 [class*="col-"] {
@@ -211,6 +211,7 @@ img, video, audio, iframe, table, form {
   text-indent: 100%;
   white-space: nowrap;
   overflow: hidden;
+  top: 72px;
 }
 
 a.fbook, a.twit, a.gplus {
@@ -292,8 +293,8 @@ header {
 
 #logo h1 {
   display: inline-block;
-  width: 45px;
-  height: 45px;
+  width: 35px;
+  height: 35px;
   text-indent: 100%;
   white-space: nowrap;
   overflow: hidden;
@@ -304,7 +305,7 @@ header {
 
 #logo h2 {
   display: inline-block;
-  font: 2.5em "Clicker Script", cursive;
+  font: 2.2em "Clicker Script", cursive;
   margin: 0;
   position: relative;
   top: -9px;
