@@ -19,7 +19,8 @@
     width:35px;
   }
   #logo h2{font-size:2.2em;}
-  #socia{top:;}
+  #socia{top:72px;}
+  
 }
   
   @media only screen and (max-width: 750px){
