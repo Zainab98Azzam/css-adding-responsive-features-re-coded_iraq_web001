@@ -7,9 +7,12 @@
 }
  
 @media only screen and (max-width: 900px) {
-  font-size:85px}
+  
+   font-size:85px
+}
   
   @media only screen and (max-width: 1108px){
+    #navbar{font-size: 0.9em;}
     
   }
 
